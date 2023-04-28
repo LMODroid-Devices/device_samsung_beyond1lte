@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beyond1lte.mk
+    $(LOCAL_DIR)/lmodroid_beyond1lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beyond1lte-eng \
-    lineage_beyond1lte-user \
-    lineage_beyond1lte-userdebug
+    lmodroid_beyond1lte-eng \
+    lmodroid_beyond1lte-user \
+    lmodroid_beyond1lte-userdebug
